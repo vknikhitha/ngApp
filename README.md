@@ -1,3 +1,8 @@
+
+### Here is the markdown of the final view of the application!!
+
+![image](https://user-images.githubusercontent.com/27793809/38971037-dc295fde-434d-11e8-83dd-797cc7ec0d9b.png)
+
 # NgApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
